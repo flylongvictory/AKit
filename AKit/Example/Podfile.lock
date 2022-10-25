@@ -1,0 +1,16 @@
+PODS:
+  - AKit (0.1.0)
+
+DEPENDENCIES:
+  - AKit (from `../`)
+
+EXTERNAL SOURCES:
+  AKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AKit: aeadd71d1fd283a874c5afecf073b43e8d12638a
+
+PODFILE CHECKSUM: e888407bc45a0bd19e572e5ba9e93b3c6ab41db2
+
+COCOAPODS: 1.11.2
